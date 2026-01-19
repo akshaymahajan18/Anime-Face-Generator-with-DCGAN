@@ -4,7 +4,7 @@
 
 DCGAN is a GAN variant that replaces fully connected layers with Convolutional Neural Networks (CNNs) to generate high-quality images.It introduced stable GAN training for images.
 
-Why DCGAN was needed-
+# Why DCGAN was needed-
 
 Vanilla GAN problems-
 
@@ -16,7 +16,7 @@ Training instability
 
 Mode collapse
 
-DCGAN solution - 
+# DCGAN solution - 
 
 Uses CNNs to capture spatial patterns
 
